@@ -1,0 +1,11 @@
+alphabet = abcdefghijklmnopqrstuvwxyz!_
+key      = 123abc456def789ghi987jkl654m
+
+phrase     = i love cryptography!
+scramble   = 6mf9jbm3i6g894i1g564
+descramble = i love cryptography!
+
+I looked into the microsft exchange server data breach from 2021. The "bad guys" were able to hack into the exchange servers and steal business and personal data. 
+They were able to do this buy attacking certain vulnerabilities in the code. I could not find exactly what the hackers did, but they were able to use certain scripts
+to get in and leave a kernal behind so they could come back later. Microsoft was able to patch the issue out of their system, but if the companies effected did not
+update their equipment they would still be suseptable to the attacks. 
